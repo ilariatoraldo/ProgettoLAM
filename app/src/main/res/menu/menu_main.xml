@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/menu1" android:title="@string/esamifuturi"/>
+    <item android:id="@+id/menu2" android:title="@string/libretto"/>
+    <item android:id="@+id/menu3" android:title="@string/statistiche"/>
+    <item android:id="@+id/menu5" android:title="@string/geo"/>
+    <item android:id="@+id/menu4" android:title="@string/info"/>
+
+</menu>

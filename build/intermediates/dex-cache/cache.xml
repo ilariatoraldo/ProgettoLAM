@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Ila\Documents\AndroidApplications\ProjectLAM\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-8358603189cd9b55c90fd841584ea6bbce53c95c.jar"
+        jar="C:\Users\Ila\Documents\AndroidApplications\ProjectLAM\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
+    <item
+        dex="C:\Users\Ila\Documents\AndroidApplications\ProjectLAM\app\build\intermediates\pre-dexed\debug\classes-158da2db862bb0aa590595220d367842a6074052.jar"
+        jar="C:\Users\Ila\Documents\AndroidApplications\ProjectLAM\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
+        dex="C:\Users\Ila\Documents\AndroidApplications\ProjectLAM\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-ee4ee04c8b3c65abf116fd0054ce20fb820c631d.jar"
+        jar="C:\Users\Ila\Documents\AndroidStudio\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
+    <item
+        dex="C:\Users\Ila\Documents\AndroidApplications\ProjectLAM\app\build\intermediates\pre-dexed\debug\google-play-services-e1b5df61d4b6bc3aa37c456459567df7987e82bb.jar"
+        jar="C:\Users\Ila\Documents\AndroidApplications\ProjectLAM\app\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9b63d9aba531aa7ff5dd30e0c872e8ca550b363a"/>
+    <item
+        dex="C:\Users\Ila\Documents\AndroidApplications\ProjectLAM\app\build\intermediates\pre-dexed\debug\classes-75a7a13c88d482b5d0c2f3bf85688e6f40f59443.jar"
+        jar="C:\Users\Ila\Documents\AndroidApplications\ProjectLAM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256"/>
+    <item
+        dex="C:\Users\Ila\Documents\AndroidApplications\ProjectLAM\app\build\intermediates\pre-dexed\debug\android-support-v4-2c504e9878de8fb697fa329e76e7d853f80e6bdd.jar"
+        jar="C:\Users\Ila\Documents\AndroidApplications\ProjectLAM\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3e4e879d0b3dc11f2feb3f55e77e3b5bd82c4a28"/>
+    <item
+        dex="C:\Users\Ila\Documents\AndroidApplications\ProjectLAM\app\build\intermediates\pre-dexed\debug\achartengine-1.1.0-308405e5a1066ac0912ced6ea14999e75a3bd3e2.jar"
+        jar="C:\Users\Ila\Documents\AndroidApplications\ProjectLAM\app\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250"/>
+
+</pre-dex-items>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Laureando</string>
+
+    <string name="hello_world">Non so cosa scrivere</string>
+
+    <string name="esamifuturi">Agenda</string>
+    <string name="info">Informazioni</string>
+    <string name="libretto">Libretto</string>
+    <string name="statistiche">Statistiche</string>
+    <string name="grafico">Grafico</string>
+    <string name="geo">Geolocalizzazione</string>
+
+    <string name="inserisciesame">Inserisci Esame</string>
+    <string name="inserisciesamefuturo">Inserisci Esame Futuro</string>
+    <string name="nuovoesame">Nuovo Esame</string>
+    <string name="piu">+</string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">AChartEngineDynamicChart</string>
+    <string name="str_tv_title">A Dynamic Graph</string>
+
+    <string name="notifica">Notifica</string>
+</resources>
